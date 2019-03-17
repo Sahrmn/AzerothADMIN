@@ -1,0 +1,190 @@
+.nav-link{
+    display: flex;
+}
+
+.busqueda{
+    padding: 0px 0px 12px 0px;
+}
+
+.search{
+    margin-top: 3px;
+}
+
+.btn-elim{
+    width: 100%;
+}
+
+.search2{
+    padding-left: 0px;
+}
+
+.no-validado{
+    background-color: #ffdadd !important;
+    border-color: #efa2a9 !important;
+}
+
+.validado{
+    background-color: #c6ffd3 !important;
+    border: 2px solid #68df83 !important;
+}
+
+/*span::before{
+    background-color: #ffdadd !important;
+    border-color: #efa2a9 !important;
+}*/
+
+.custom-control-input.is-invalid~.custom-control-label::before{
+    background-color: #ffdadd !important;
+    border-color: #efa2a9 !important;
+}
+
+.btn-seleccion{
+    background-color:rgb(71, 146, 227) !important;
+    color: #fff;
+}
+
+.btn-seleccion button{
+    color: #fff;
+}
+
+.col-agregar{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#nombreProducto{
+    margin-bottom: 0px;
+}
+
+.btn-group{
+    margin-left: 2px;
+}
+
+.alineacion-tabla{
+    display: flex;
+    border-top: 0 !important;
+    border-left: 0 !important;
+    align-items: center;
+}
+
+#btnAgregar{
+    padding-right: 46px;
+    padding-left: 46px;
+}
+
+.no-mostrar{
+    display: none;
+}
+
+.table-responsive>.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.docs-datepicker{
+    margin-top: 10px;
+}
+
+.docs-datepicker-trigger{
+    margin-right: 10px;
+}
+
+.btn-mas{
+    padding: 5px 20px 5px 20px;
+    margin: 3px 0 3px 0;
+    height: 85%;
+}
+
+.col-btn{
+    padding-right: 0px;
+    margin: 3px 0 3px 0;
+}
+
+.col-input-prod{
+    padding-left: 0px;
+    margin: 6px 0 6px 0;
+    margin-left: -12px;
+}
+
+#trash{
+    height: 34px;
+}
+
+.anc_alt{
+    width: 30%;
+    height: 30%;
+}
+
+.alt80{
+    height: 80%;
+}
+
+.fa-plus{
+    height: 70%;
+}
+
+/* radio button ventas */
+.no-seleccionado{
+    background-color: #b8bacb;
+    border: 1px solid #b8bacb;
+}
+
+#search-box{
+    width: 100%;
+}
+
+.suggesstion-box{
+    position: absolute;
+    background-color: #fff;
+    width: 96%;
+    padding: 0; 
+}
+
+.marg-l{
+    margin-left: 2px;
+}
+
+.marg-r{
+    margin-right: 2px;
+}
+
+.z999{
+    z-index: 999;
+}
+
+.btn-primary.btn-block{
+    margin-top: 15px;
+}
+
+span.h2.text-primary{
+    margin-left: 33px;
+}
+
+#montoTotal{
+    width: 40%;
+    text-align: right;
+}
+
+.alinear-tabla{
+    justify-content: space-between;
+}
+
+.table.muestra td, .table.muestra th{
+    border-top: 0px solid;
+}
+
+#btnBuscarVentas{
+    width: 150px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 10px;
+}
+
+.percent90{
+    width: 90%;   
+}
+
+.cont-table-v{
+    margin-top: 15px;
+    margin-left: -10px;
+}
